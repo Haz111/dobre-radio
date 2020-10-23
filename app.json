@@ -1,0 +1,12 @@
+{
+  "name": "dobreRadio",
+  "displayName": "dobreRadio",
+  "expo": {
+    "name": "dobreRadio",
+    "slug": "dobreRadio",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
